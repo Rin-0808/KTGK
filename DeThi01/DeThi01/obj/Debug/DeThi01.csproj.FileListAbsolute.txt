@@ -1,0 +1,10 @@
+C:\Users\ADMIN HD\source\repos\DeThi01\DeThi01\bin\Debug\DeThi01.exe.config
+C:\Users\ADMIN HD\source\repos\DeThi01\DeThi01\bin\Debug\DeThi01.exe
+C:\Users\ADMIN HD\source\repos\DeThi01\DeThi01\bin\Debug\DeThi01.pdb
+C:\Users\ADMIN HD\source\repos\DeThi01\DeThi01\obj\Debug\DeThi01.csproj.AssemblyReference.cache
+C:\Users\ADMIN HD\source\repos\DeThi01\DeThi01\obj\Debug\DeThi01.Form1.resources
+C:\Users\ADMIN HD\source\repos\DeThi01\DeThi01\obj\Debug\DeThi01.Properties.Resources.resources
+C:\Users\ADMIN HD\source\repos\DeThi01\DeThi01\obj\Debug\DeThi01.csproj.GenerateResource.cache
+C:\Users\ADMIN HD\source\repos\DeThi01\DeThi01\obj\Debug\DeThi01.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN HD\source\repos\DeThi01\DeThi01\obj\Debug\DeThi01.exe
+C:\Users\ADMIN HD\source\repos\DeThi01\DeThi01\obj\Debug\DeThi01.pdb
